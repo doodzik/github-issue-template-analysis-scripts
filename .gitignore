@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# project
+github-issue-template-data
+github-issue-template-data.zip
+*.png
+
