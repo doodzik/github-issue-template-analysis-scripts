@@ -1,0 +1,25 @@
+query { 
+  search(query: "stars:>1", type: REPOSITORY, first: 100) {
+    edges {
+      cursor,
+      node {
+      	... on Repository {
+          isPrivate,
+          url,
+          id,
+          hasIssuesEnabled,
+          watchers(first:0) {
+            totalCount
+          }
+        }
+      }
+    }
+  },
+  rateLimit {
+    remaining,
+    cost
+  },
+  viewer { 
+    login
+  }
+}

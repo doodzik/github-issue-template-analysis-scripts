@@ -1,0 +1,3818 @@
+[
+  {
+    "cursor": "Y3Vyc29yOjM0NA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/facebookarchive/AsyncDisplayKit",
+      "id": "MDEwOlJlcG9zaXRvcnkyMTI2NTA0Mg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 564
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-20 20:17:51 -0700",
+    "itDateBeforeStart": "2016-01-21T04:17:51.000Z",
+    "itDateBeforeEnd": "2016-06-21T03:17:51.000Z",
+    "itDateAfterStart": "2016-06-21T03:17:51.000Z",
+    "itDateAfterEnd": "2016-11-21T04:17:51.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ5MQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/Carthage/Carthage",
+      "id": "MDEwOlJlcG9zaXRvcnkyNTA1MDg0NA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 316
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-28 16:17:48 -0700",
+    "itDateBeforeStart": "2015-10-29T00:17:48.000Z",
+    "itDateBeforeEnd": "2016-03-28T23:17:48.000Z",
+    "itDateAfterStart": "2016-03-28T23:17:48.000Z",
+    "itDateAfterEnd": "2016-08-28T23:17:48.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQx",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/chartjs/Chart.js",
+      "id": "MDEwOlJlcG9zaXRvcnk4ODQzNjgz",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1281
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-12 19:52:39 -0500",
+    "itDateBeforeStart": "2015-12-13T01:52:39.000Z",
+    "itDateBeforeEnd": "2016-05-13T00:52:39.000Z",
+    "itDateAfterStart": "2016-05-13T00:52:39.000Z",
+    "itDateAfterEnd": "2016-10-13T00:52:39.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjU1Ng==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/CocoaLumberjack/CocoaLumberjack",
+      "id": "MDEwOlJlcG9zaXRvcnkxNTQ5MTM4",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 393
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-28 22:03:17 +0300",
+    "itDateBeforeStart": "2015-12-28T20:03:17.000Z",
+    "itDateBeforeEnd": "2016-05-28T19:03:17.000Z",
+    "itDateAfterStart": "2016-05-28T19:03:17.000Z",
+    "itDateAfterEnd": "2016-10-28T19:03:17.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjUxNw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/CocoaPods/CocoaPods",
+      "id": "MDEwOlJlcG9zaXRvcnkyMjAzNjQ1",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 530
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-22 10:31:32 +0100",
+    "itDateBeforeStart": "2015-09-22T08:31:32.000Z",
+    "itDateBeforeEnd": "2016-02-22T09:31:32.000Z",
+    "itDateAfterStart": "2016-02-22T09:31:32.000Z",
+    "itDateAfterEnd": "2016-07-22T08:31:32.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ0Ng==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/nolimits4web/Framework7",
+      "id": "MDEwOlJlcG9zaXRvcnkxNzEwNzQ3OQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 616
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-21 18:48:24 +0200",
+    "itDateBeforeStart": "2015-12-21T17:48:24.000Z",
+    "itDateBeforeEnd": "2016-05-21T16:48:24.000Z",
+    "itDateAfterStart": "2016-05-21T16:48:24.000Z",
+    "itDateAfterEnd": "2016-10-21T16:48:24.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjkw",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/TryGhost/Ghost",
+      "id": "MDEwOlJlcG9zaXRvcnk5ODUyOTE4",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1051
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 09:50:09 +0000",
+    "itDateBeforeStart": "2015-09-18T08:50:09.000Z",
+    "itDateBeforeEnd": "2016-02-18T09:50:09.000Z",
+    "itDateAfterStart": "2016-02-18T09:50:09.000Z",
+    "itDateAfterEnd": "2016-07-18T08:50:09.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjM5OQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/jessesquires/JSQMessagesViewController",
+      "id": "MDEwOlJlcG9zaXRvcnk4MjU3MTA2",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 418
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-20 09:34:04 -0800",
+    "itDateBeforeStart": "2015-09-20T16:34:04.000Z",
+    "itDateBeforeEnd": "2016-02-20T17:34:04.000Z",
+    "itDateAfterStart": "2016-02-20T17:34:04.000Z",
+    "itDateAfterEnd": "2016-07-20T16:34:04.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ5Mw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/LightTable/LightTable",
+      "id": "MDEwOlJlcG9zaXRvcnk0ODE0MzU0",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 489
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-05 12:02:12 -0400",
+    "itDateBeforeStart": "2016-01-05T17:02:12.000Z",
+    "itDateBeforeEnd": "2016-06-05T16:02:12.000Z",
+    "itDateAfterStart": "2016-06-05T16:02:12.000Z",
+    "itDateAfterEnd": "2016-11-05T17:02:12.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQwNQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/NativeScript/NativeScript",
+      "id": "MDEwOlJlcG9zaXRvcnkzMTQ5MjQ5MA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 629
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 10:32:57 +0200",
+    "itDateBeforeStart": "2015-09-18T07:32:57.000Z",
+    "itDateBeforeEnd": "2016-02-18T08:32:57.000Z",
+    "itDateAfterStart": "2016-02-18T08:32:57.000Z",
+    "itDateAfterEnd": "2016-07-18T07:32:57.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjgxNQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/NodeBB/NodeBB",
+      "id": "MDEwOlJlcG9zaXRvcnk5NjAzODg5",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 382
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-06 15:23:35 -0400",
+    "itDateBeforeStart": "2016-02-06T20:23:35.000Z",
+    "itDateBeforeEnd": "2016-07-06T19:23:35.000Z",
+    "itDateAfterStart": "2016-07-06T19:23:35.000Z",
+    "itDateAfterEnd": "2016-12-06T20:23:35.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjcxOA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/guillaumepotier/Parsley.js",
+      "id": "MDEwOlJlcG9zaXRvcnk3MTkxNTY1",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 266
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-05 02:18:17 +0100",
+    "itDateBeforeStart": "2015-10-05T00:18:17.000Z",
+    "itDateBeforeEnd": "2016-03-05T01:18:17.000Z",
+    "itDateAfterStart": "2016-03-05T01:18:17.000Z",
+    "itDateAfterEnd": "2016-08-05T00:18:17.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjg0Mw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/PowerShell/PowerShell",
+      "id": "MDEwOlJlcG9zaXRvcnk0OTYwOTU4MQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 630
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-22 15:12:03 -0700",
+    "itDateBeforeStart": "2015-11-22T23:12:03.000Z",
+    "itDateBeforeEnd": "2016-04-22T22:12:03.000Z",
+    "itDateAfterStart": "2016-04-22T22:12:03.000Z",
+    "itDateAfterEnd": "2016-09-22T22:12:03.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjMxMw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/RocketChat/Rocket.Chat",
+      "id": "MDEwOlJlcG9zaXRvcnkzNTg2NjY5NA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 664
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 20:32:08 -0200",
+    "itDateBeforeStart": "2015-09-18T21:32:08.000Z",
+    "itDateBeforeEnd": "2016-02-18T22:32:08.000Z",
+    "itDateAfterStart": "2016-02-18T22:32:08.000Z",
+    "itDateAfterEnd": "2016-07-18T21:32:08.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE0Ng==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/rs/SDWebImage",
+      "id": "MDEwOlJlcG9zaXRvcnkzMTM0MTk=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 860
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-28 21:48:23 +0300",
+    "itDateBeforeStart": "2015-12-28T19:48:23.000Z",
+    "itDateBeforeEnd": "2016-05-28T18:48:23.000Z",
+    "itDateAfterStart": "2016-05-28T18:48:23.000Z",
+    "itDateAfterEnd": "2016-10-28T18:48:23.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjcwNQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/WhisperSystems/Signal-Android",
+      "id": "MDEwOlJlcG9zaXRvcnkyOTkwMTky",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 589
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 17:48:26 -0800",
+    "itDateBeforeStart": "2015-09-19T00:48:26.000Z",
+    "itDateBeforeEnd": "2016-02-19T01:48:26.000Z",
+    "itDateAfterStart": "2016-02-19T01:48:26.000Z",
+    "itDateAfterEnd": "2016-07-19T00:48:26.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjk3NQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/SignalR/SignalR",
+      "id": "MDEwOlJlcG9zaXRvcnkyMDg3MDY0",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 715
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-08-22 22:34:03 -0700",
+    "itDateBeforeStart": "2016-03-23T06:34:03.000Z",
+    "itDateBeforeEnd": "2016-08-23T05:34:03.000Z",
+    "itDateAfterStart": "2016-08-23T05:34:03.000Z",
+    "itDateAfterEnd": "2017-01-23T06:34:03.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc1Mw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/slackhq/SlackTextViewController",
+      "id": "MDEwOlJlcG9zaXRvcnkyMzA4MjMzMg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 241
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-05 12:30:32 -0700",
+    "itDateBeforeStart": "2016-02-05T20:30:32.000Z",
+    "itDateBeforeEnd": "2016-07-05T19:30:32.000Z",
+    "itDateAfterStart": "2016-07-05T19:30:32.000Z",
+    "itDateAfterEnd": "2016-12-05T20:30:32.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ0NQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/SnapKit/SnapKit",
+      "id": "MDEwOlJlcG9zaXRvcnkyMDU0MTc5NQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 322
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-02 23:51:37 +1300",
+    "itDateBeforeStart": "2015-10-02T09:51:37.000Z",
+    "itDateBeforeEnd": "2016-03-02T10:51:37.000Z",
+    "itDateAfterStart": "2016-03-02T10:51:37.000Z",
+    "itDateAfterEnd": "2016-08-02T09:51:37.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQxMA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/RubaXa/Sortable",
+      "id": "MDEwOlJlcG9zaXRvcnkxNTMwODQ5OQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 307
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-19 11:56:44 +0300",
+    "itDateBeforeStart": "2015-09-19T07:56:44.000Z",
+    "itDateBeforeEnd": "2016-02-19T08:56:44.000Z",
+    "itDateAfterStart": "2016-02-19T08:56:44.000Z",
+    "itDateAfterEnd": "2016-07-19T07:56:44.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjg0",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/Microsoft/TypeScript",
+      "id": "MDEwOlJlcG9zaXRvcnkyMDkyOTAyNQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1508
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-17 11:40:21 -0800",
+    "itDateBeforeStart": "2015-09-17T18:40:21.000Z",
+    "itDateBeforeEnd": "2016-02-17T19:40:21.000Z",
+    "itDateAfterStart": "2016-02-17T19:40:21.000Z",
+    "itDateAfterEnd": "2016-07-17T18:40:21.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjIxOQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/XX-net/XX-Net",
+      "id": "MDEwOlJlcG9zaXRvcnkyOTI5MDQ3Mw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1404
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-02 23:42:43 +0800",
+    "itDateBeforeStart": "2015-12-02T16:42:43.000Z",
+    "itDateBeforeEnd": "2016-05-02T15:42:43.000Z",
+    "itDateAfterStart": "2016-05-02T15:42:43.000Z",
+    "itDateAfterEnd": "2016-10-02T15:42:43.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI1MQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/Valloric/YouCompleteMe",
+      "id": "MDEwOlJlcG9zaXRvcnk0MDM3MTk3",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 556
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-21 13:43:33 -0800",
+    "itDateBeforeStart": "2015-09-21T20:43:33.000Z",
+    "itDateBeforeEnd": "2016-02-21T21:43:33.000Z",
+    "itDateAfterStart": "2016-02-21T21:43:33.000Z",
+    "itDateAfterEnd": "2016-07-21T20:43:33.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ2Nw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/amazeui/amazeui",
+      "id": "MDEwOlJlcG9zaXRvcnkyMjYwNzAxMw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 858
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-02 09:47:34 +0800",
+    "itDateBeforeStart": "2015-10-02T00:47:34.000Z",
+    "itDateBeforeEnd": "2016-03-02T01:47:34.000Z",
+    "itDateAfterStart": "2016-03-02T01:47:34.000Z",
+    "itDateAfterEnd": "2016-08-02T00:47:34.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjEyNg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/googlesamples/android-architecture",
+      "id": "MDEwOlJlcG9zaXRvcnk1MTE0ODc4MA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1705
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-19 15:26:14 +0100",
+    "itDateBeforeStart": "2016-02-19T15:26:14.000Z",
+    "itDateBeforeEnd": "2016-07-19T14:26:14.000Z",
+    "itDateAfterStart": "2016-07-19T14:26:14.000Z",
+    "itDateAfterEnd": "2016-12-19T15:26:14.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjcw",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/angular/angular",
+      "id": "MDEwOlJlcG9zaXRvcnkyNDE5NTMzOQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 2542
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-03 14:06:11 -0800",
+    "itDateBeforeStart": "2015-10-03T21:06:11.000Z",
+    "itDateBeforeEnd": "2016-03-03T22:06:11.000Z",
+    "itDateAfterStart": "2016-03-03T22:06:11.000Z",
+    "itDateAfterEnd": "2016-08-03T21:06:11.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjM5NA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/angular/angular-cli",
+      "id": "MDEwOlJlcG9zaXRvcnkzNjg5MTg2Nw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 878
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-23 10:21:09 -0700",
+    "itDateBeforeStart": "2015-10-23T16:21:09.000Z",
+    "itDateBeforeEnd": "2016-03-23T17:21:09.000Z",
+    "itDateAfterStart": "2016-03-23T17:21:09.000Z",
+    "itDateAfterEnd": "2016-08-23T16:21:09.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjY1Ng==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/AngularClass/angular-starter",
+      "id": "MDEwOlJlcG9zaXRvcnkzMTgyOTc3MA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 587
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-11 22:21:29 -0800",
+    "itDateBeforeStart": "2015-10-12T05:21:29.000Z",
+    "itDateBeforeEnd": "2016-03-12T06:21:29.000Z",
+    "itDateAfterStart": "2016-03-12T06:21:29.000Z",
+    "itDateAfterEnd": "2016-08-12T05:21:29.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjEw",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/angular/angular.js",
+      "id": "MDEwOlJlcG9zaXRvcnk0NjAwNzg=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 4449
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-22 23:19:45 +0100",
+    "itDateBeforeStart": "2015-09-22T21:19:45.000Z",
+    "itDateBeforeEnd": "2016-02-22T22:19:45.000Z",
+    "itDateAfterStart": "2016-02-22T22:19:45.000Z",
+    "itDateAfterEnd": "2016-07-22T21:19:45.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc4",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/ansible/ansible",
+      "id": "MDEwOlJlcG9zaXRvcnkzNjM4OTY0",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1679
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-10 13:55:49 +0100",
+    "itDateBeforeStart": "2015-10-10T11:55:49.000Z",
+    "itDateBeforeEnd": "2016-03-10T12:55:49.000Z",
+    "itDateAfterStart": "2016-03-10T12:55:49.000Z",
+    "itDateAfterEnd": "2016-08-10T11:55:49.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjIyNw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/ant-design/ant-design",
+      "id": "MDEwOlJlcG9zaXRvcnkzNDUyNjg4NA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 744
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-19 15:55:00 +0800",
+    "itDateBeforeStart": "2015-09-19T06:55:00.000Z",
+    "itDateBeforeEnd": "2016-02-19T07:55:00.000Z",
+    "itDateAfterStart": "2016-02-19T07:55:00.000Z",
+    "itDateAfterEnd": "2016-07-19T06:55:00.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjEwMg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/caolan/async",
+      "id": "MDEwOlJlcG9zaXRvcnk2OTgwNDE=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 704
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-19 14:11:38 -0400",
+    "itDateBeforeStart": "2015-12-19T19:11:38.000Z",
+    "itDateBeforeEnd": "2016-05-19T18:11:38.000Z",
+    "itDateAfterStart": "2016-05-19T18:11:38.000Z",
+    "itDateAfterEnd": "2016-10-19T18:11:38.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjIz",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/atom/atom",
+      "id": "MDEwOlJlcG9zaXRvcnkzMjI4NTA1",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 2139
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-17 13:10:26 -0800",
+    "itDateBeforeStart": "2015-09-17T20:10:26.000Z",
+    "itDateBeforeEnd": "2016-02-17T21:10:26.000Z",
+    "itDateAfterStart": "2016-02-17T21:10:26.000Z",
+    "itDateAfterEnd": "2016-07-17T20:10:26.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjM5Nw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/avajs/ava",
+      "id": "MDEwOlJlcG9zaXRvcnkyNjgyMDc5OA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 205
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-02 02:30:31 +0700",
+    "itDateBeforeStart": "2015-10-01T18:30:31.000Z",
+    "itDateBeforeEnd": "2016-03-01T19:30:31.000Z",
+    "itDateAfterStart": "2016-03-01T19:30:31.000Z",
+    "itDateAfterEnd": "2016-08-01T18:30:31.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjk1MQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/h4cc/awesome-elixir",
+      "id": "MDEwOlJlcG9zaXRvcnkyMTQwMjYyNw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 325
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-05 11:40:05 -0300",
+    "itDateBeforeStart": "2016-02-05T15:40:05.000Z",
+    "itDateBeforeEnd": "2016-07-05T14:40:05.000Z",
+    "itDateAfterStart": "2016-07-05T14:40:05.000Z",
+    "itDateAfterEnd": "2016-12-05T15:40:05.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjg1Ng==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/marionettejs/backbone.marionette",
+      "id": "MDEwOlJlcG9zaXRvcnkyOTY1NjIx",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 354
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-08-23 09:34:44 +0100",
+    "itDateBeforeStart": "2016-03-23T09:34:44.000Z",
+    "itDateBeforeEnd": "2016-08-23T08:34:44.000Z",
+    "itDateAfterStart": "2016-08-23T08:34:44.000Z",
+    "itDateAfterEnd": "2017-01-23T09:34:44.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI2MA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/bitcoin/bitcoin",
+      "id": "MDEwOlJlcG9zaXRvcnkxMTgxOTI3",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1569
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-08-10 12:25:52 -0500",
+    "itDateBeforeStart": "2016-03-10T18:25:52.000Z",
+    "itDateBeforeEnd": "2016-08-10T17:25:52.000Z",
+    "itDateAfterStart": "2016-08-10T17:25:52.000Z",
+    "itDateAfterEnd": "2017-01-10T18:25:52.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjIyMg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/petkaantonov/bluebird",
+      "id": "MDEwOlJlcG9zaXRvcnkxMjY3MDQ0NA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 379
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-17 21:43:01 +0200",
+    "itDateBeforeStart": "2015-09-17T18:43:01.000Z",
+    "itDateBeforeEnd": "2016-02-17T19:43:01.000Z",
+    "itDateAfterStart": "2016-02-17T19:43:01.000Z",
+    "itDateAfterEnd": "2016-07-17T18:43:01.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI0Nw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/angular-ui/bootstrap",
+      "id": "MDEwOlJlcG9zaXRvcnk2MDk0Njgz",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 857
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-19 10:15:44 -0700",
+    "itDateBeforeStart": "2015-09-19T16:15:44.000Z",
+    "itDateBeforeEnd": "2016-02-19T17:15:44.000Z",
+    "itDateAfterStart": "2016-02-19T17:15:44.000Z",
+    "itDateAfterEnd": "2016-07-19T16:15:44.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ3NA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/uxsolutions/bootstrap-datepicker",
+      "id": "MDEwOlJlcG9zaXRvcnkzNzQ0NTQ1",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 481
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-15 23:43:36 +0200",
+    "itDateBeforeStart": "2015-12-15T22:43:36.000Z",
+    "itDateBeforeEnd": "2016-05-15T21:43:36.000Z",
+    "itDateAfterStart": "2016-05-15T21:43:36.000Z",
+    "itDateAfterEnd": "2016-10-15T21:43:36.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE0Mg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/FezVrasta/bootstrap-material-design",
+      "id": "MDEwOlJlcG9zaXRvcnkyMzA2OTM5OQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 868
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-29 08:48:17 -0500",
+    "itDateBeforeStart": "2015-11-29T14:48:17.000Z",
+    "itDateBeforeEnd": "2016-04-29T13:48:17.000Z",
+    "itDateAfterStart": "2016-04-29T13:48:17.000Z",
+    "itDateAfterEnd": "2016-09-29T13:48:17.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjY3Nw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/thoughtbot/bourbon",
+      "id": "MDEwOlJlcG9zaXRvcnkxNjUzODgy",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 363
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-07 21:19:21 -0400",
+    "itDateBeforeStart": "2016-02-08T02:19:21.000Z",
+    "itDateBeforeEnd": "2016-07-08T01:19:21.000Z",
+    "itDateAfterStart": "2016-07-08T01:19:21.000Z",
+    "itDateAfterEnd": "2016-12-08T02:19:21.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjIxNA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/bower/bower",
+      "id": "MDEwOlJlcG9zaXRvcnk1NzEwMzQx",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 842
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-09 20:29:26 +0200",
+    "itDateBeforeStart": "2016-01-09T19:29:26.000Z",
+    "itDateBeforeEnd": "2016-06-09T18:29:26.000Z",
+    "itDateAfterStart": "2016-06-09T18:29:26.000Z",
+    "itDateAfterEnd": "2016-11-09T19:29:26.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc0Mw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/Homebrew/brew",
+      "id": "MDEwOlJlcG9zaXRvcnk1MzIzODgxMw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 369
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 08:19:17 +0000",
+    "itDateBeforeStart": "2015-09-18T07:19:17.000Z",
+    "itDateBeforeEnd": "2016-02-18T08:19:17.000Z",
+    "itDateAfterStart": "2016-02-18T08:19:17.000Z",
+    "itDateAfterEnd": "2016-07-18T07:19:17.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjU5Mg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/BrowserSync/browser-sync",
+      "id": "MDEwOlJlcG9zaXRvcnkxMzUyNzc2MQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 271
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 14:24:09 +0000",
+    "itDateBeforeStart": "2015-09-18T13:24:09.000Z",
+    "itDateBeforeEnd": "2016-02-18T14:24:09.000Z",
+    "itDateAfterStart": "2016-02-18T14:24:09.000Z",
+    "itDateAfterEnd": "2016-07-18T13:24:09.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjg1Mg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/cakephp/cakephp",
+      "id": "MDEwOlJlcG9zaXRvcnk2NTY0OTQ=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 684
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-20 18:14:23 +0530",
+    "itDateBeforeStart": "2015-09-20T11:44:23.000Z",
+    "itDateBeforeEnd": "2016-02-20T12:44:23.000Z",
+    "itDateAfterStart": "2016-02-20T12:44:23.000Z",
+    "itDateAfterEnd": "2016-07-20T11:44:23.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjEwOA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/harvesthq/chosen",
+      "id": "MDEwOlJlcG9zaXRvcnkxNjMxMDI0",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 774
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-14 11:42:49 -0400",
+    "itDateBeforeStart": "2015-10-14T14:42:49.000Z",
+    "itDateBeforeEnd": "2016-03-14T15:42:49.000Z",
+    "itDateAfterStart": "2016-03-14T15:42:49.000Z",
+    "itDateAfterEnd": "2016-08-14T14:42:49.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE0OA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/zenorocha/clipboard.js",
+      "id": "MDEwOlJlcG9zaXRvcnk0Mjc1MTAxNA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 339
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 11:40:00 -0800",
+    "itDateBeforeStart": "2015-09-18T18:40:00.000Z",
+    "itDateBeforeEnd": "2016-02-18T19:40:00.000Z",
+    "itDateAfterStart": "2016-02-18T19:40:00.000Z",
+    "itDateAfterEnd": "2016-07-18T18:40:00.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjM5OA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/cockroachdb/cockroach",
+      "id": "MDEwOlJlcG9zaXRvcnkxNjU2MzU4Nw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 603
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-30 11:24:06 -0400",
+    "itDateBeforeStart": "2015-10-30T16:24:06.000Z",
+    "itDateBeforeEnd": "2016-03-30T15:24:06.000Z",
+    "itDateAfterStart": "2016-03-30T15:24:06.000Z",
+    "itDateAfterEnd": "2016-08-30T15:24:06.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQxMQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/cocos2d/cocos2d-x",
+      "id": "MDEwOlJlcG9zaXRvcnkxMDkzMjI4",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1351
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-25 15:58:04 +0800",
+    "itDateBeforeStart": "2016-02-25T08:58:04.000Z",
+    "itDateBeforeEnd": "2016-07-25T07:58:04.000Z",
+    "itDateAfterStart": "2016-07-25T07:58:04.000Z",
+    "itDateAfterEnd": "2016-12-25T08:58:04.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjUwOQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/composer/composer",
+      "id": "MDEwOlJlcG9zaXRvcnkxODY0MzYz",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 575
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-17 11:42:19 +0000",
+    "itDateBeforeStart": "2015-10-17T10:42:19.000Z",
+    "itDateBeforeEnd": "2016-03-17T11:42:19.000Z",
+    "itDateAfterStart": "2016-03-17T11:42:19.000Z",
+    "itDateAfterEnd": "2016-08-17T10:42:19.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjUxNg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/hashicorp/consul",
+      "id": "MDEwOlJlcG9zaXRvcnkxNDEyNTI1NA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 621
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-28 16:57:31 -0700",
+    "itDateBeforeStart": "2015-11-29T00:57:31.000Z",
+    "itDateBeforeEnd": "2016-04-28T23:57:31.000Z",
+    "itDateAfterStart": "2016-04-28T23:57:31.000Z",
+    "itDateAfterEnd": "2016-09-28T23:57:31.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjY4NA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/phalcon/cphalcon",
+      "id": "MDEwOlJlcG9zaXRvcnkyODU0MzM3",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 741
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-28 01:40:33 +0300",
+    "itDateBeforeStart": "2016-02-27T23:40:33.000Z",
+    "itDateBeforeEnd": "2016-07-27T22:40:33.000Z",
+    "itDateAfterStart": "2016-07-27T22:40:33.000Z",
+    "itDateAfterEnd": "2016-12-27T23:40:33.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjk0NQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/cyclejs/cyclejs",
+      "id": "MDEwOlJlcG9zaXRvcnkyNjMxNjk2Ng==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 226
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-30 14:46:36 +0300",
+    "itDateBeforeStart": "2016-03-01T12:46:36.000Z",
+    "itDateBeforeEnd": "2016-07-30T11:46:36.000Z",
+    "itDateAfterStart": "2016-07-30T11:46:36.000Z",
+    "itDateAfterEnd": "2016-12-30T12:46:36.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjY4Nw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/encode/django-rest-framework",
+      "id": "MDEwOlJlcG9zaXRvcnkxNDMxNTQ3",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 395
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-22 11:17:02 -0400",
+    "itDateBeforeStart": "2015-09-22T14:17:02.000Z",
+    "itDateBeforeEnd": "2016-02-22T15:17:02.000Z",
+    "itDateAfterStart": "2016-02-22T15:17:02.000Z",
+    "itDateAfterEnd": "2016-07-22T14:17:02.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI2NA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/dokku/dokku",
+      "id": "MDEwOlJlcG9zaXRvcnkxMDU2NzE5Nw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 380
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-17 12:58:35 -0500",
+    "itDateBeforeStart": "2015-09-17T16:58:35.000Z",
+    "itDateBeforeEnd": "2016-02-17T17:58:35.000Z",
+    "itDateAfterStart": "2016-02-17T17:58:35.000Z",
+    "itDateAfterEnd": "2016-07-17T16:58:35.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQyMg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/facebook/draft-js",
+      "id": "MDEwOlJlcG9zaXRvcnk1MjExMzkyMQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 302
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-05 17:09:19 -0700",
+    "itDateBeforeStart": "2016-02-06T01:09:19.000Z",
+    "itDateBeforeEnd": "2016-07-06T00:09:19.000Z",
+    "itDateAfterStart": "2016-07-06T00:09:19.000Z",
+    "itDateAfterEnd": "2016-12-06T01:09:19.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ0Mg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/drone/drone",
+      "id": "MDEwOlJlcG9zaXRvcnkxNjYwNzg5OA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 420
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-19 13:02:28 -0700",
+    "itDateBeforeStart": "2015-11-19T21:02:28.000Z",
+    "itDateBeforeEnd": "2016-04-19T20:02:28.000Z",
+    "itDateAfterStart": "2016-04-19T20:02:28.000Z",
+    "itDateAfterEnd": "2016-09-19T20:02:28.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjEzNA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/ecomfe/echarts",
+      "id": "MDEwOlJlcG9zaXRvcnk5MTg1Nzky",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1521
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-04 16:15:13 +0800",
+    "itDateBeforeStart": "2015-10-04T07:15:13.000Z",
+    "itDateBeforeEnd": "2016-03-04T08:15:13.000Z",
+    "itDateAfterStart": "2016-03-04T08:15:13.000Z",
+    "itDateAfterEnd": "2016-08-04T07:15:13.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc2OA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/labstack/echo",
+      "id": "MDEwOlJlcG9zaXRvcnkzMTUwNDQ5MQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 378
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-04 16:42:29 -0700",
+    "itDateBeforeStart": "2016-01-05T00:42:29.000Z",
+    "itDateBeforeEnd": "2016-06-04T23:42:29.000Z",
+    "itDateAfterStart": "2016-06-04T23:42:29.000Z",
+    "itDateAfterEnd": "2016-11-05T00:42:29.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjgz",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/elastic/elasticsearch",
+      "id": "MDEwOlJlcG9zaXRvcnk1MDc3NzU=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 2074
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-22 15:05:36 -0800",
+    "itDateBeforeStart": "2015-09-22T22:05:36.000Z",
+    "itDateBeforeEnd": "2016-02-22T23:05:36.000Z",
+    "itDateAfterStart": "2016-02-22T23:05:36.000Z",
+    "itDateAfterEnd": "2016-07-22T22:05:36.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE2",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/electron/electron",
+      "id": "MDEwOlJlcG9zaXRvcnk5Mzg0MjY3",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 2221
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-17 16:31:26 -0500",
+    "itDateBeforeStart": "2015-09-17T20:31:26.000Z",
+    "itDateBeforeEnd": "2016-02-17T21:31:26.000Z",
+    "itDateAfterStart": "2016-02-17T21:31:26.000Z",
+    "itDateAfterEnd": "2016-07-17T20:31:26.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjgwOQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/geeeeeeeeek/electronic-wechat",
+      "id": "MDEwOlJlcG9zaXRvcnk1MTk5NDY5Mg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 415
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-19 12:40:07 +0800",
+    "itDateBeforeStart": "2015-09-19T03:40:07.000Z",
+    "itDateBeforeEnd": "2016-02-19T04:40:07.000Z",
+    "itDateAfterStart": "2016-02-19T04:40:07.000Z",
+    "itDateAfterEnd": "2016-07-19T03:40:07.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQxNw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/elixir-lang/elixir",
+      "id": "MDEwOlJlcG9zaXRvcnkxMjM0NzE0",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 668
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-21 22:58:41 +0100",
+    "itDateBeforeStart": "2015-09-21T20:58:41.000Z",
+    "itDateBeforeEnd": "2016-02-21T21:58:41.000Z",
+    "itDateAfterStart": "2016-02-21T21:58:41.000Z",
+    "itDateAfterEnd": "2016-07-21T20:58:41.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjcxNQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/eslint/eslint",
+      "id": "MDEwOlJlcG9zaXRvcnkxMTA2MTc3Mw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 239
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-24 20:30:24 -0500",
+    "itDateBeforeStart": "2015-09-25T00:30:24.000Z",
+    "itDateBeforeEnd": "2016-02-25T01:30:24.000Z",
+    "itDateAfterStart": "2016-02-25T01:30:24.000Z",
+    "itDateAfterEnd": "2016-07-25T00:30:24.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI2MQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/coreos/etcd",
+      "id": "MDEwOlJlcG9zaXRvcnkxMTIyNTAxNA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 870
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-25 16:22:13 -0700",
+    "itDateBeforeStart": "2015-11-26T00:22:13.000Z",
+    "itDateBeforeEnd": "2016-04-25T23:22:13.000Z",
+    "itDateAfterStart": "2016-04-25T23:22:13.000Z",
+    "itDateAfterEnd": "2016-09-25T23:22:13.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjY3NA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/kangax/fabric.js",
+      "id": "MDEwOlJlcG9zaXRvcnk3MTI1MzA=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 395
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 13:58:45 -0500",
+    "itDateBeforeStart": "2015-09-18T17:58:45.000Z",
+    "itDateBeforeEnd": "2016-02-18T18:58:45.000Z",
+    "itDateAfterStart": "2016-02-18T18:58:45.000Z",
+    "itDateAfterEnd": "2016-07-18T17:58:45.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjg3NQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/FineUploader/fine-uploader",
+      "id": "MDEwOlJlcG9zaXRvcnk3Mjg5OTQ=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 340
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-23 16:58:30 +0700",
+    "itDateBeforeStart": "2015-09-23T08:58:30.000Z",
+    "itDateBeforeEnd": "2016-02-23T09:58:30.000Z",
+    "itDateAfterStart": "2016-02-23T09:58:30.000Z",
+    "itDateAfterEnd": "2016-07-23T08:58:30.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjg0Ng==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/mozilla-mobile/firefox-ios",
+      "id": "MDEwOlJlcG9zaXRvcnkyNjEzMzk3OQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 405
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-22 17:03:40 -0700",
+    "itDateBeforeStart": "2016-02-23T01:03:40.000Z",
+    "itDateBeforeEnd": "2016-07-23T00:03:40.000Z",
+    "itDateAfterStart": "2016-07-23T00:03:40.000Z",
+    "itDateAfterEnd": "2016-12-23T01:03:40.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjczOQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/fish-shell/fish-shell",
+      "id": "MDEwOlJlcG9zaXRvcnk0Mjc5Njgy",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 234
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-24 16:06:26 +0800",
+    "itDateBeforeStart": "2015-09-24T07:06:26.000Z",
+    "itDateBeforeEnd": "2016-02-24T08:06:26.000Z",
+    "itDateAfterStart": "2016-02-24T08:06:26.000Z",
+    "itDateAfterEnd": "2016-07-24T07:06:26.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjY5",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/zurb/foundation-sites",
+      "id": "MDEwOlJlcG9zaXRvcnkyNTczMDU4",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1493
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-29 11:18:36 -0800",
+    "itDateBeforeStart": "2015-09-29T18:18:36.000Z",
+    "itDateBeforeEnd": "2016-02-29T19:18:36.000Z",
+    "itDateAfterStart": "2016-02-29T19:18:36.000Z",
+    "itDateAfterEnd": "2016-07-29T18:18:36.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ4OA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/aurelia/framework",
+      "id": "MDEwOlJlcG9zaXRvcnkyNzgzNTYzOA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 528
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-13 21:27:59 -0400",
+    "itDateBeforeStart": "2016-02-14T02:27:59.000Z",
+    "itDateBeforeEnd": "2016-07-14T01:27:59.000Z",
+    "itDateAfterStart": "2016-07-14T01:27:59.000Z",
+    "itDateAfterEnd": "2016-12-14T02:27:59.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE=",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "id": "MDEwOlJlcG9zaXRvcnkyODQ1NzgyMw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 8705
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 10:28:22 +0400",
+    "itDateBeforeStart": "2015-09-18T05:28:22.000Z",
+    "itDateBeforeEnd": "2016-02-18T06:28:22.000Z",
+    "itDateAfterStart": "2016-02-18T06:28:22.000Z",
+    "itDateAfterEnd": "2016-07-18T05:28:22.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI0Mw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/FreeCodeCampChina/freecodecamp.cn",
+      "id": "MDEwOlJlcG9zaXRvcnk2OTYyOTQzNA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 384
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 10:28:22 +0400",
+    "itDateBeforeStart": "2015-09-18T05:28:22.000Z",
+    "itDateBeforeEnd": "2016-02-18T06:28:22.000Z",
+    "itDateAfterStart": "2016-02-18T06:28:22.000Z",
+    "itDateAfterEnd": "2016-07-18T05:28:22.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjEyMg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/alvarotrigo/fullPage.js",
+      "id": "MDEwOlJlcG9zaXRvcnkxMjk3MjI2Mw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 811
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-11 12:14:38 +0100",
+    "itDateBeforeStart": "2015-12-11T12:14:38.000Z",
+    "itDateBeforeEnd": "2016-05-11T11:14:38.000Z",
+    "itDateAfterStart": "2016-05-11T11:14:38.000Z",
+    "itDateAfterEnd": "2016-10-11T11:14:38.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjkxMA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/fullcalendar/fullcalendar",
+      "id": "MDEwOlJlcG9zaXRvcnkzODE5Nzk=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 434
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-24 00:00:08 -0800",
+    "itDateBeforeStart": "2015-09-24T07:00:08.000Z",
+    "itDateBeforeEnd": "2016-02-24T08:00:08.000Z",
+    "itDateAfterStart": "2016-02-24T08:00:08.000Z",
+    "itDateAfterEnd": "2016-07-24T07:00:08.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjUzMQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/junegunn/fzf",
+      "id": "MDEwOlJlcG9zaXRvcnkxMzgwNzYwNg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 197
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-06 11:24:03 +0900",
+    "itDateBeforeStart": "2015-10-06T01:24:03.000Z",
+    "itDateBeforeEnd": "2016-03-06T02:24:03.000Z",
+    "itDateAfterStart": "2016-03-06T02:24:03.000Z",
+    "itDateAfterEnd": "2016-08-06T01:24:03.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjgxNw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/jhipster/generator-jhipster",
+      "id": "MDEwOlJlcG9zaXRvcnkxMzc1MzYzNg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 553
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-19 16:18:15 +0100",
+    "itDateBeforeStart": "2015-09-19T14:18:15.000Z",
+    "itDateBeforeEnd": "2016-02-19T15:18:15.000Z",
+    "itDateAfterStart": "2016-02-19T15:18:15.000Z",
+    "itDateAfterEnd": "2016-07-19T14:18:15.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjM1Ng==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/puikinsh/gentelella",
+      "id": "MDEwOlJlcG9zaXRvcnkzNTY1ODg2Mw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 820
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-03 00:08:25 +0800",
+    "itDateBeforeStart": "2016-01-02T17:08:25.000Z",
+    "itDateBeforeEnd": "2016-06-02T16:08:25.000Z",
+    "itDateAfterStart": "2016-06-02T16:08:25.000Z",
+    "itDateAfterEnd": "2016-11-02T17:08:25.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjIwMQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/GitbookIO/gitbook",
+      "id": "MDEwOlJlcG9zaXRvcnkxODI4MDIzNg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 591
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-25 20:39:31 +0200",
+    "itDateBeforeStart": "2016-02-25T19:39:31.000Z",
+    "itDateBeforeEnd": "2016-07-25T18:39:31.000Z",
+    "itDateAfterStart": "2016-07-25T18:39:31.000Z",
+    "itDateAfterEnd": "2016-12-25T19:39:31.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjEyNA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/gitlabhq/gitlabhq",
+      "id": "MDEwOlJlcG9zaXRvcnkyNTAwMDg4",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1047
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-09 11:03:28 -0600",
+    "itDateBeforeStart": "2016-01-09T18:03:28.000Z",
+    "itDateBeforeEnd": "2016-06-09T17:03:28.000Z",
+    "itDateAfterStart": "2016-06-09T17:03:28.000Z",
+    "itDateAfterEnd": "2016-11-09T18:03:28.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc4NQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/nicolargo/glances",
+      "id": "MDEwOlJlcG9zaXRvcnkyOTA5NDI5",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 360
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-28 10:35:14 +0200",
+    "itDateBeforeStart": "2015-10-28T09:35:14.000Z",
+    "itDateBeforeEnd": "2016-03-28T08:35:14.000Z",
+    "itDateAfterStart": "2016-03-28T08:35:14.000Z",
+    "itDateAfterEnd": "2016-08-28T08:35:14.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE5MA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/bumptech/glide",
+      "id": "MDEwOlJlcG9zaXRvcnkxMTI2NzUwOQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 877
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-18 20:45:28 +0100",
+    "itDateBeforeStart": "2015-10-18T18:45:28.000Z",
+    "itDateBeforeEnd": "2016-03-18T19:45:28.000Z",
+    "itDateAfterStart": "2016-03-18T19:45:28.000Z",
+    "itDateAfterEnd": "2016-08-18T18:45:28.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjEyMA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/gogits/gogs",
+      "id": "MDEwOlJlcG9zaXRvcnkxNjc1MjYyMA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 869
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-17 21:22:58 -0500",
+    "itDateBeforeStart": "2015-09-18T01:22:58.000Z",
+    "itDateBeforeEnd": "2016-02-18T02:22:58.000Z",
+    "itDateAfterStart": "2016-02-18T02:22:58.000Z",
+    "itDateAfterEnd": "2016-07-18T01:22:58.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE3OQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/grafana/grafana",
+      "id": "MDEwOlJlcG9zaXRvcnkxNTExMTgyMQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 928
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-08 15:56:54 +0100",
+    "itDateBeforeStart": "2015-10-08T13:56:54.000Z",
+    "itDateBeforeEnd": "2016-03-08T14:56:54.000Z",
+    "itDateAfterStart": "2016-03-08T14:56:54.000Z",
+    "itDateAfterEnd": "2016-08-08T13:56:54.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjcwNw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/hapijs/hapi",
+      "id": "MDEwOlJlcG9zaXRvcnkyMTYzMjYz",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 422
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-08-21 01:34:50 -0700",
+    "itDateBeforeStart": "2016-03-21T09:34:50.000Z",
+    "itDateBeforeEnd": "2016-08-21T08:34:50.000Z",
+    "itDateAfterStart": "2016-08-21T08:34:50.000Z",
+    "itDateAfterEnd": "2017-01-21T09:34:50.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE3Mw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/hexojs/hexo",
+      "id": "MDEwOlJlcG9zaXRvcnk1OTIzMjE1",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 710
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-25 21:06:38 +0800",
+    "itDateBeforeStart": "2015-09-25T12:06:38.000Z",
+    "itDateBeforeEnd": "2016-02-25T13:06:38.000Z",
+    "itDateAfterStart": "2016-02-25T13:06:38.000Z",
+    "itDateAfterEnd": "2016-07-25T12:06:38.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjY0MQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/iissnan/hexo-theme-next",
+      "id": "MDEwOlJlcG9zaXRvcnkyNzM4MjE2Mw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 376
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-15 16:02:54 +0800",
+    "itDateBeforeStart": "2015-10-15T07:02:54.000Z",
+    "itDateBeforeEnd": "2016-03-15T08:02:54.000Z",
+    "itDateAfterStart": "2016-03-15T08:02:54.000Z",
+    "itDateAfterEnd": "2016-08-15T07:02:54.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjIzNg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/facebook/hhvm",
+      "id": "MDEwOlJlcG9zaXRvcnk0NTU2MDA=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1159
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-09 15:00:29 -0800",
+    "itDateBeforeStart": "2015-10-09T22:00:29.000Z",
+    "itDateBeforeEnd": "2016-03-09T23:00:29.000Z",
+    "itDateAfterStart": "2016-03-09T23:00:29.000Z",
+    "itDateAfterEnd": "2016-08-09T22:00:29.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjg0OQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/home-assistant/home-assistant",
+      "id": "MDEwOlJlcG9zaXRvcnkxMjg4ODk5Mw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 434
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-27 10:03:55 +0100",
+    "itDateBeforeStart": "2015-09-27T08:03:55.000Z",
+    "itDateBeforeEnd": "2016-02-27T09:03:55.000Z",
+    "itDateAfterStart": "2016-02-27T09:03:55.000Z",
+    "itDateAfterEnd": "2016-07-27T08:03:55.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjM2Nw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/caskroom/homebrew-cask",
+      "id": "MDEwOlJlcG9zaXRvcnkzNjIzMDUw",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 238
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-19 16:39:58 +0100",
+    "itDateBeforeStart": "2016-01-19T16:39:58.000Z",
+    "itDateBeforeEnd": "2016-06-19T15:39:58.000Z",
+    "itDateAfterStart": "2016-06-19T15:39:58.000Z",
+    "itDateAfterEnd": "2016-11-19T16:39:58.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjk4OA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/rethinkdb/horizon",
+      "id": "MDEwOlJlcG9zaXRvcnk0NTA5MTEyNA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 506
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-20 09:58:06 -0700",
+    "itDateBeforeStart": "2015-11-20T17:58:06.000Z",
+    "itDateBeforeEnd": "2016-04-20T16:58:06.000Z",
+    "itDateAfterStart": "2016-04-20T16:58:06.000Z",
+    "itDateAfterEnd": "2016-09-20T16:58:06.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI1Mw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/racaljk/hosts",
+      "id": "MDEwOlJlcG9zaXRvcnkyMTQ4MTQzOQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1737
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-09 16:26:44 +0800",
+    "itDateBeforeStart": "2015-11-09T09:26:44.000Z",
+    "itDateBeforeEnd": "2016-04-09T08:26:44.000Z",
+    "itDateAfterStart": "2016-04-09T08:26:44.000Z",
+    "itDateAfterEnd": "2016-09-09T08:26:44.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjEyNw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/facebook/immutable-js",
+      "id": "MDEwOlJlcG9zaXRvcnkyMTQxMzE5OA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 504
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-15 17:48:27 -0700",
+    "itDateBeforeStart": "2015-11-16T01:48:27.000Z",
+    "itDateBeforeEnd": "2016-04-16T00:48:27.000Z",
+    "itDateAfterStart": "2016-04-16T00:48:27.000Z",
+    "itDateAfterEnd": "2016-09-16T00:48:27.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjM4",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/impress/impress.js",
+      "id": "MDEwOlJlcG9zaXRvcnkzMDY1NDU0",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1411
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-27 23:07:32 +1000",
+    "itDateBeforeStart": "2015-11-27T14:07:32.000Z",
+    "itDateBeforeEnd": "2016-04-27T13:07:32.000Z",
+    "itDateAfterStart": "2016-04-27T13:07:32.000Z",
+    "itDateAfterEnd": "2016-09-27T13:07:32.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjM3Ng==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/influxdata/influxdb",
+      "id": "MDEwOlJlcG9zaXRvcnkxMzEyNDgwMg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 626
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-30 14:35:45 -0700",
+    "itDateBeforeStart": "2015-10-30T22:35:45.000Z",
+    "itDateBeforeEnd": "2016-03-30T21:35:45.000Z",
+    "itDateAfterStart": "2016-03-30T21:35:45.000Z",
+    "itDateAfterEnd": "2016-08-30T21:35:45.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ0",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/ionic-team/ionic",
+      "id": "MDEwOlJlcG9zaXRvcnkxMjI1NjM3Ng==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1779
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-24 14:58:03 -0500",
+    "itDateBeforeStart": "2016-01-24T20:58:03.000Z",
+    "itDateBeforeEnd": "2016-06-24T19:58:03.000Z",
+    "itDateAfterStart": "2016-06-24T19:58:03.000Z",
+    "itDateAfterEnd": "2016-11-24T20:58:03.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjY1OA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/metafizzy/isotope",
+      "id": "MDEwOlJlcG9zaXRvcnkxMjExOTc4",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 316
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-17 11:29:52 -0400",
+    "itDateBeforeStart": "2015-10-17T14:29:52.000Z",
+    "itDateBeforeEnd": "2016-03-17T15:29:52.000Z",
+    "itDateAfterStart": "2016-03-17T15:29:52.000Z",
+    "itDateAfterEnd": "2016-08-17T14:29:52.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ1",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/jekyll/jekyll",
+      "id": "MDEwOlJlcG9zaXRvcnk2NTI1Mg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1327
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-26 18:06:55 +0100",
+    "itDateBeforeStart": "2015-09-26T16:06:55.000Z",
+    "itDateBeforeEnd": "2016-02-26T17:06:55.000Z",
+    "itDateAfterStart": "2016-02-26T17:06:55.000Z",
+    "itDateAfterEnd": "2016-07-26T16:06:55.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE4",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/jquery/jquery",
+      "id": "MDEwOlJlcG9zaXRvcnkxNjcxNzQ=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 3485
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-22 15:09:23 -0400",
+    "itDateBeforeStart": "2015-11-22T20:09:23.000Z",
+    "itDateBeforeEnd": "2016-04-22T19:09:23.000Z",
+    "itDateAfterStart": "2016-04-22T19:09:23.000Z",
+    "itDateAfterEnd": "2016-09-22T19:09:23.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc1MQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/jquery-validation/jquery-validation",
+      "id": "MDEwOlJlcG9zaXRvcnk2NDg0MTQ=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 466
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-17 10:37:53 +0100",
+    "itDateBeforeStart": "2015-10-17T08:37:53.000Z",
+    "itDateBeforeEnd": "2016-03-17T09:37:53.000Z",
+    "itDateAfterStart": "2016-03-17T09:37:53.000Z",
+    "itDateAfterEnd": "2016-08-17T08:37:53.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjY0Nw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/MrRio/jsPDF",
+      "id": "MDEwOlJlcG9zaXRvcnk0MDIwNDY=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 367
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-01 10:59:34 +0000",
+    "itDateBeforeStart": "2015-10-01T09:59:34.000Z",
+    "itDateBeforeEnd": "2016-03-01T10:59:34.000Z",
+    "itDateAfterStart": "2016-03-01T10:59:34.000Z",
+    "itDateAfterEnd": "2016-08-01T09:59:34.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjYwOQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/karma-runner/karma",
+      "id": "MDEwOlJlcG9zaXRvcnkyNTYwOTg4",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 350
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 20:14:36 +0100",
+    "itDateBeforeStart": "2015-09-18T18:14:36.000Z",
+    "itDateBeforeEnd": "2016-02-18T19:14:36.000Z",
+    "itDateAfterStart": "2016-02-18T19:14:36.000Z",
+    "itDateAfterEnd": "2016-07-18T18:14:36.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE2OA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/fchollet/keras",
+      "id": "MDEwOlJlcG9zaXRvcnkzMzAxNTU4Mw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1150
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-17 16:56:18 -0800",
+    "itDateBeforeStart": "2015-09-17T23:56:18.000Z",
+    "itDateBeforeEnd": "2016-02-18T00:56:18.000Z",
+    "itDateAfterStart": "2016-02-18T00:56:18.000Z",
+    "itDateAfterEnd": "2016-07-17T23:56:18.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQzMg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/keystonejs/keystone",
+      "id": "MDEwOlJlcG9zaXRvcnkxMTExNjM3Mg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 480
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-15 18:17:23 -0400",
+    "itDateBeforeStart": "2015-12-15T23:17:23.000Z",
+    "itDateBeforeEnd": "2016-05-15T22:17:23.000Z",
+    "itDateAfterStart": "2016-05-15T22:17:23.000Z",
+    "itDateAfterEnd": "2016-10-15T22:17:23.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc4OQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/elastic/kibana",
+      "id": "MDEwOlJlcG9zaXRvcnk3ODMzMTY4",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 608
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-11 16:41:33 -0400",
+    "itDateBeforeStart": "2016-01-11T21:41:33.000Z",
+    "itDateBeforeEnd": "2016-06-11T20:41:33.000Z",
+    "itDateAfterStart": "2016-06-11T20:41:33.000Z",
+    "itDateAfterEnd": "2016-11-11T21:41:33.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc5OQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/docker/kitematic",
+      "id": "MDEwOlJlcG9zaXRvcnkyMzQwNDgzOQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 304
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-08 17:01:08 -0700",
+    "itDateBeforeStart": "2015-11-09T01:01:08.000Z",
+    "itDateBeforeEnd": "2016-04-09T00:01:08.000Z",
+    "itDateAfterStart": "2016-04-09T00:01:08.000Z",
+    "itDateAfterEnd": "2016-09-09T00:01:08.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjM5MQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/Mashape/kong",
+      "id": "MDEwOlJlcG9zaXRvcnkyNjc4MzI5NQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 601
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-13 15:50:19 -0700",
+    "itDateBeforeStart": "2016-02-13T23:50:19.000Z",
+    "itDateBeforeEnd": "2016-07-13T22:50:19.000Z",
+    "itDateAfterStart": "2016-07-13T22:50:19.000Z",
+    "itDateAfterEnd": "2016-12-13T23:50:19.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjcy",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/kubernetes/kubernetes",
+      "id": "MDEwOlJlcG9zaXRvcnkyMDU4MDQ5OA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1840
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-08-11 18:25:33 -0700",
+    "itDateBeforeStart": "2016-03-12T02:25:33.000Z",
+    "itDateBeforeEnd": "2016-08-12T01:25:33.000Z",
+    "itDateAfterStart": "2016-08-12T01:25:33.000Z",
+    "itDateAfterEnd": "2017-01-12T02:25:33.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE5OA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/square/leakcanary",
+      "id": "MDEwOlJlcG9zaXRvcnkzNDgyNDQ5OQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 967
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-19 16:16:08 -0700",
+    "itDateBeforeStart": "2015-10-19T22:16:08.000Z",
+    "itDateBeforeEnd": "2016-03-19T23:16:08.000Z",
+    "itDateAfterStart": "2016-03-19T23:16:08.000Z",
+    "itDateAfterEnd": "2016-08-19T22:16:08.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjUy",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/Homebrew/legacy-homebrew",
+      "id": "MDEwOlJlcG9zaXRvcnkyMDYwODQ=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1040
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 08:19:17 +0000",
+    "itDateBeforeStart": "2015-09-18T07:19:17.000Z",
+    "itDateBeforeEnd": "2016-02-18T08:19:17.000Z",
+    "itDateAfterStart": "2016-02-18T08:19:17.000Z",
+    "itDateAfterEnd": "2016-07-18T07:19:17.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI3NA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/limetext/lime",
+      "id": "MDEwOlJlcG9zaXRvcnk2MDY0MzQy",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 858
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-01 16:23:25 +0100",
+    "itDateBeforeStart": "2015-12-01T16:23:25.000Z",
+    "itDateBeforeEnd": "2016-05-01T15:23:25.000Z",
+    "itDateAfterStart": "2016-05-01T15:23:25.000Z",
+    "itDateAfterEnd": "2016-10-01T15:23:25.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc3NA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/elastic/logstash",
+      "id": "MDEwOlJlcG9zaXRvcnkxMDkwMzEx",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 640
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-15 18:41:06 +0000",
+    "itDateBeforeStart": "2015-11-15T19:41:06.000Z",
+    "itDateBeforeEnd": "2016-04-15T18:41:06.000Z",
+    "itDateAfterStart": "2016-04-15T18:41:06.000Z",
+    "itDateAfterEnd": "2016-09-15T18:41:06.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjMzNQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/desandro/masonry",
+      "id": "MDEwOlJlcG9zaXRvcnkzODA5NjE=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 494
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-17 11:35:28 -0400",
+    "itDateBeforeStart": "2015-10-17T14:35:28.000Z",
+    "itDateBeforeEnd": "2016-03-17T15:35:28.000Z",
+    "itDateAfterStart": "2016-03-17T15:35:28.000Z",
+    "itDateAfterEnd": "2016-08-17T14:35:28.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjIwMw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/angular/material",
+      "id": "MDEwOlJlcG9zaXRvcnkyMTM5OTU5OA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 940
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-30 08:07:09 -0500",
+    "itDateBeforeStart": "2015-11-30T14:07:09.000Z",
+    "itDateBeforeEnd": "2016-04-30T13:07:09.000Z",
+    "itDateAfterStart": "2016-04-30T13:07:09.000Z",
+    "itDateAfterEnd": "2016-09-30T13:07:09.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjU3",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/google/material-design-lite",
+      "id": "MDEwOlJlcG9zaXRvcnkyOTI2ODA1MQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1362
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-13 11:05:04 -0400",
+    "itDateBeforeStart": "2016-02-13T16:05:04.000Z",
+    "itDateBeforeEnd": "2016-07-13T15:05:04.000Z",
+    "itDateAfterStart": "2016-07-13T15:05:04.000Z",
+    "itDateAfterEnd": "2016-12-13T16:05:04.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQyNw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/afollestad/material-dialogs",
+      "id": "MDEwOlJlcG9zaXRvcnkyNjEwMjE4MA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 509
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-15 13:16:47 -0500",
+    "itDateBeforeStart": "2015-11-15T19:16:47.000Z",
+    "itDateBeforeEnd": "2016-04-15T18:16:47.000Z",
+    "itDateAfterStart": "2016-04-15T18:16:47.000Z",
+    "itDateAfterEnd": "2016-09-15T18:16:47.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjUzNA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/equinusocio/material-theme",
+      "id": "MDEwOlJlcG9zaXRvcnkzNjY3NDIzNA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 259
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-07 14:51:58 +0200",
+    "itDateBeforeStart": "2016-02-07T13:51:58.000Z",
+    "itDateBeforeEnd": "2016-07-07T12:51:58.000Z",
+    "itDateAfterStart": "2016-07-07T12:51:58.000Z",
+    "itDateAfterEnd": "2016-12-07T13:51:58.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjYz",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/callemall/material-ui",
+      "id": "MDEwOlJlcG9zaXRvcnkyMzA4MzE1Ng==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1024
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-28 15:40:56 +0000",
+    "itDateBeforeStart": "2015-09-28T14:40:56.000Z",
+    "itDateBeforeEnd": "2016-02-28T15:40:56.000Z",
+    "itDateAfterStart": "2016-02-28T15:40:56.000Z",
+    "itDateAfterEnd": "2016-07-28T14:40:56.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjUyMQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/angular/material2",
+      "id": "MDEwOlJlcG9zaXRvcnk0OTAxNjMyMg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 975
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-09 10:06:24 -0800",
+    "itDateBeforeStart": "2015-10-09T17:06:24.000Z",
+    "itDateBeforeEnd": "2016-03-09T18:06:24.000Z",
+    "itDateAfterStart": "2016-03-09T18:06:24.000Z",
+    "itDateAfterEnd": "2016-08-09T17:06:24.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjM5Mw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/yabwe/medium-editor",
+      "id": "MDEwOlJlcG9zaXRvcnkxMDM2NTQxMQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 342
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-15 16:55:41 +0200",
+    "itDateBeforeStart": "2015-11-15T15:55:41.000Z",
+    "itDateBeforeEnd": "2016-04-15T14:55:41.000Z",
+    "itDateAfterStart": "2016-04-15T14:55:41.000Z",
+    "itDateAfterEnd": "2016-09-15T14:55:41.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjU3OA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "id": "MDEwOlJlcG9zaXRvcnkyMjkzMTU4",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1199
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-22 12:45:02 -0600",
+    "itDateBeforeStart": "2015-09-22T17:45:02.000Z",
+    "itDateBeforeEnd": "2016-02-22T18:45:02.000Z",
+    "itDateAfterStart": "2016-02-22T18:45:02.000Z",
+    "itDateAfterEnd": "2016-07-22T17:45:02.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI0",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/meteor/meteor",
+      "id": "MDEwOlJlcG9zaXRvcnkzMjE0NDA2",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1945
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-19 14:59:40 +0100",
+    "itDateBeforeStart": "2015-09-19T12:59:40.000Z",
+    "itDateBeforeEnd": "2016-02-19T13:59:40.000Z",
+    "itDateAfterStart": "2016-02-19T13:59:40.000Z",
+    "itDateAfterEnd": "2016-07-19T12:59:40.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjg0MQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/minio/minio",
+      "id": "MDEwOlJlcG9zaXRvcnkyOTI2MTQ3Mw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 243
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-03 10:31:08 +0530",
+    "itDateBeforeStart": "2016-01-03T06:01:08.000Z",
+    "itDateBeforeEnd": "2016-06-03T05:01:08.000Z",
+    "itDateAfterStart": "2016-06-03T05:01:08.000Z",
+    "itDateAfterEnd": "2016-11-03T06:01:08.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjk5Mg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/ElemeFE/mint-ui",
+      "id": "MDEwOlJlcG9zaXRvcnk1OTAxMDgxNQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 290
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-08-17 19:05:45 +0800",
+    "itDateBeforeStart": "2016-03-17T12:05:45.000Z",
+    "itDateBeforeEnd": "2016-08-17T11:05:45.000Z",
+    "itDateAfterStart": "2016-08-17T11:05:45.000Z",
+    "itDateAfterEnd": "2017-01-17T12:05:45.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjcwOA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/mitmproxy/mitmproxy",
+      "id": "MDEwOlJlcG9zaXRvcnk1MTk4MzI=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 329
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-17 21:10:48 +0100",
+    "itDateBeforeStart": "2015-09-17T19:10:48.000Z",
+    "itDateBeforeEnd": "2016-02-17T20:10:48.000Z",
+    "itDateAfterStart": "2016-02-17T20:10:48.000Z",
+    "itDateAfterEnd": "2016-07-17T19:10:48.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjIw",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/moby/moby",
+      "id": "MDEwOlJlcG9zaXRvcnk3NjkxNjMx",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 3277
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-22 14:59:50 -0500",
+    "itDateBeforeStart": "2015-09-22T18:59:50.000Z",
+    "itDateBeforeEnd": "2016-02-22T19:59:50.000Z",
+    "itDateAfterStart": "2016-02-22T19:59:50.000Z",
+    "itDateAfterEnd": "2016-07-22T18:59:50.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjM3",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/moment/moment",
+      "id": "MDEwOlJlcG9zaXRvcnkxNDI0NDcw",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 913
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-23 20:18:51 -0500",
+    "itDateBeforeStart": "2016-01-24T02:18:51.000Z",
+    "itDateBeforeEnd": "2016-06-24T01:18:51.000Z",
+    "itDateAfterStart": "2016-06-24T01:18:51.000Z",
+    "itDateAfterEnd": "2016-11-24T02:18:51.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjM3MQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/jiahaog/nativefier",
+      "id": "MDEwOlJlcG9zaXRvcnkzODU1ODU3OA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 237
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-23 21:18:58 +0800",
+    "itDateBeforeStart": "2015-09-23T12:18:58.000Z",
+    "itDateBeforeEnd": "2016-02-23T13:18:58.000Z",
+    "itDateAfterStart": "2016-02-23T13:18:58.000Z",
+    "itDateAfterEnd": "2016-07-23T12:18:58.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjg3",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/neovim/neovim",
+      "id": "MDEwOlJlcG9zaXRvcnkxNjQwODk5Mg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 993
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-19 00:28:36 +0100",
+    "itDateBeforeStart": "2015-09-18T22:28:36.000Z",
+    "itDateBeforeEnd": "2016-02-18T23:28:36.000Z",
+    "itDateAfterStart": "2016-02-18T23:28:36.000Z",
+    "itDateAfterEnd": "2016-07-18T22:28:36.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjk2Mw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/akveo/ng2-admin",
+      "id": "MDEwOlJlcG9zaXRvcnk1OTY1MjkyOA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 479
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-20 16:32:12 +0300",
+    "itDateBeforeStart": "2015-11-20T14:32:12.000Z",
+    "itDateBeforeEnd": "2016-04-20T13:32:12.000Z",
+    "itDateAfterStart": "2016-04-20T13:32:12.000Z",
+    "itDateAfterEnd": "2016-09-20T13:32:12.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI2",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/nodejs/node",
+      "id": "MDEwOlJlcG9zaXRvcnkyNzE5Mzc3OQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 2298
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-23 00:36:45 -0500",
+    "itDateBeforeStart": "2015-09-23T04:36:45.000Z",
+    "itDateBeforeEnd": "2016-02-23T05:36:45.000Z",
+    "itDateAfterStart": "2016-02-23T05:36:45.000Z",
+    "itDateAfterEnd": "2016-07-23T04:36:45.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjcwOQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/NodeRedis/node_redis",
+      "id": "MDEwOlJlcG9zaXRvcnk5MDg4OTM=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 299
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-15 03:56:47 +0100",
+    "itDateBeforeStart": "2015-10-15T01:56:47.000Z",
+    "itDateBeforeEnd": "2016-03-15T02:56:47.000Z",
+    "itDateAfterStart": "2016-03-15T02:56:47.000Z",
+    "itDateAfterEnd": "2016-08-15T01:56:47.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI5Mw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/npm/npm",
+      "id": "MDEwOlJlcG9zaXRvcnkzMjEyNzg=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 685
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-24 17:42:52 -0700",
+    "itDateBeforeStart": "2016-01-25T01:42:52.000Z",
+    "itDateBeforeEnd": "2016-06-25T00:42:52.000Z",
+    "itDateAfterStart": "2016-06-25T00:42:52.000Z",
+    "itDateAfterEnd": "2016-11-25T01:42:52.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjkyNw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/facebook/nuclide",
+      "id": "MDEwOlJlcG9zaXRvcnkzMTUyNDc2OA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 300
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 09:40:41 -0800",
+    "itDateBeforeStart": "2015-09-18T16:40:41.000Z",
+    "itDateBeforeEnd": "2016-02-18T17:40:41.000Z",
+    "itDateAfterStart": "2016-02-18T17:40:41.000Z",
+    "itDateAfterEnd": "2016-07-18T16:40:41.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjM5",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/nwjs/nw.js",
+      "id": "MDEwOlJlcG9zaXRvcnkzMTAwMTIx",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1823
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-18 10:35:32 +0800",
+    "itDateBeforeStart": "2015-10-18T01:35:32.000Z",
+    "itDateBeforeEnd": "2016-03-18T02:35:32.000Z",
+    "itDateAfterStart": "2016-03-18T02:35:32.000Z",
+    "itDateAfterEnd": "2016-08-18T01:35:32.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjg5",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/nylas/nylas-mail",
+      "id": "MDEwOlJlcG9zaXRvcnkyNTMxNTY0Mw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 434
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 09:55:52 -0800",
+    "itDateBeforeStart": "2015-09-18T16:55:52.000Z",
+    "itDateBeforeEnd": "2016-02-18T17:55:52.000Z",
+    "itDateAfterStart": "2016-02-18T17:55:52.000Z",
+    "itDateAfterEnd": "2016-07-18T16:55:52.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjg5Mw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/odoo/odoo",
+      "id": "MDEwOlJlcG9zaXRvcnkxOTc0NTAwNA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1177
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-19 09:44:32 +0100",
+    "itDateBeforeStart": "2015-09-19T07:44:32.000Z",
+    "itDateBeforeEnd": "2016-02-19T08:44:32.000Z",
+    "itDateAfterStart": "2016-02-19T08:44:32.000Z",
+    "itDateAfterEnd": "2016-07-19T07:44:32.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjEwOQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/square/okhttp",
+      "id": "MDEwOlJlcG9zaXRvcnk1MTUyMjg1",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1415
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-21 11:52:34 -0500",
+    "itDateBeforeStart": "2015-09-21T15:52:34.000Z",
+    "itDateBeforeEnd": "2016-02-21T16:52:34.000Z",
+    "itDateAfterStart": "2016-02-21T16:52:34.000Z",
+    "itDateAfterEnd": "2016-07-21T15:52:34.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE4Mw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/opencv/opencv",
+      "id": "MDEwOlJlcG9zaXRvcnk1MTA4MDUx",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1588
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-04 14:20:25 +0300",
+    "itDateBeforeStart": "2015-10-04T10:20:25.000Z",
+    "itDateBeforeEnd": "2016-03-04T11:20:25.000Z",
+    "itDateAfterStart": "2016-03-04T11:20:25.000Z",
+    "itDateAfterEnd": "2016-08-04T10:20:25.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc5NA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/cmusatyalab/openface",
+      "id": "MDEwOlJlcG9zaXRvcnk0MjU4NjYxMg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 548
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-19 12:20:45 -0500",
+    "itDateBeforeStart": "2015-09-19T16:20:45.000Z",
+    "itDateBeforeEnd": "2016-02-19T17:20:45.000Z",
+    "itDateAfterStart": "2016-02-19T17:20:45.000Z",
+    "itDateAfterEnd": "2016-07-19T16:20:45.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjk0MA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/hashicorp/packer",
+      "id": "MDEwOlJlcG9zaXRvcnk4OTY2MzU2",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 384
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-24 17:41:57 -0800",
+    "itDateBeforeStart": "2015-09-25T00:41:57.000Z",
+    "itDateBeforeEnd": "2016-02-25T01:41:57.000Z",
+    "itDateAfterStart": "2016-02-25T01:41:57.000Z",
+    "itDateAfterEnd": "2016-07-25T00:41:57.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ1Mg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/pandas-dev/pandas",
+      "id": "MDEwOlJlcG9zaXRvcnk4NTgxMjc=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 678
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-17 20:49:29 -0500",
+    "itDateBeforeStart": "2015-09-18T00:49:29.000Z",
+    "itDateBeforeEnd": "2016-02-18T01:49:29.000Z",
+    "itDateAfterStart": "2016-02-18T01:49:29.000Z",
+    "itDateAfterEnd": "2016-07-18T00:49:29.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjU4NA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/jgm/pandoc",
+      "id": "MDEwOlJlcG9zaXRvcnk1NzE3NzA=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 371
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2012-12-29 18:14:29 -0800",
+    "itDateBeforeStart": "2012-07-30T01:14:29.000Z",
+    "itDateBeforeEnd": "2012-12-30T02:14:29.000Z",
+    "itDateAfterStart": "2012-12-30T02:14:29.000Z",
+    "itDateAfterEnd": "2013-05-30T01:14:29.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI3MQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/parse-community/parse-server",
+      "id": "MDEwOlJlcG9zaXRvcnk1MDYwMzg0Ng==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 691
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-26 10:50:27 -0800",
+    "itDateBeforeStart": "2015-09-26T17:50:27.000Z",
+    "itDateBeforeEnd": "2016-02-26T18:50:27.000Z",
+    "itDateAfterStart": "2016-02-26T18:50:27.000Z",
+    "itDateAfterEnd": "2016-07-26T17:50:27.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE0MA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/mozilla/pdf.js",
+      "id": "MDEwOlJlcG9zaXRvcnkxNjYzNDY4",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 863
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-23 22:48:14 +0100",
+    "itDateBeforeStart": "2015-10-23T20:48:14.000Z",
+    "itDateBeforeEnd": "2016-03-23T21:48:14.000Z",
+    "itDateAfterStart": "2016-03-23T21:48:14.000Z",
+    "itDateAfterEnd": "2016-08-23T20:48:14.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjkz",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/ariya/phantomjs",
+      "id": "MDEwOlJlcG9zaXRvcnkxMjAwMDUw",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1135
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-11 21:27:13 +0300",
+    "itDateBeforeStart": "2015-11-11T19:27:13.000Z",
+    "itDateBeforeEnd": "2016-04-11T18:27:13.000Z",
+    "itDateAfterStart": "2016-04-11T18:27:13.000Z",
+    "itDateAfterEnd": "2016-09-11T18:27:13.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjIwMg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/photonstorm/phaser",
+      "id": "MDEwOlJlcG9zaXRvcnk5MzkzNzU5",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1015
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-26 17:51:10 +0000",
+    "itDateBeforeStart": "2015-09-26T16:51:10.000Z",
+    "itDateBeforeEnd": "2016-02-26T17:51:10.000Z",
+    "itDateAfterStart": "2016-02-26T17:51:10.000Z",
+    "itDateAfterEnd": "2016-07-26T16:51:10.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ3Mw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/phoenixframework/phoenix",
+      "id": "MDEwOlJlcG9zaXRvcnkxNjA3MjU4NQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 606
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 14:24:10 -0600",
+    "itDateBeforeStart": "2015-09-18T19:24:10.000Z",
+    "itDateBeforeEnd": "2016-02-18T20:24:10.000Z",
+    "itDateAfterStart": "2016-02-18T20:24:10.000Z",
+    "itDateAfterEnd": "2016-07-18T19:24:10.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjM5NQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/mattermost/platform",
+      "id": "MDEwOlJlcG9zaXRvcnkzNzQ0ODQ1MQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 423
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-16 16:10:28 -0700",
+    "itDateBeforeStart": "2015-12-17T00:10:28.000Z",
+    "itDateBeforeEnd": "2016-05-16T23:10:28.000Z",
+    "itDateAfterStart": "2016-05-16T23:10:28.000Z",
+    "itDateAfterEnd": "2016-10-16T23:10:28.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjUxOQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/playframework/playframework",
+      "id": "MDEwOlJlcG9zaXRvcnkyMzQwNTQ5",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 799
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 08:02:26 -0800",
+    "itDateBeforeStart": "2015-09-18T15:02:26.000Z",
+    "itDateBeforeEnd": "2016-02-18T16:02:26.000Z",
+    "itDateAfterStart": "2016-02-18T16:02:26.000Z",
+    "itDateAfterEnd": "2016-07-18T15:02:26.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjk5Nw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/plotly/plotly.js",
+      "id": "MDEwOlJlcG9zaXRvcnk0NTY0NjAzNw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 217
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-19 12:38:03 -0400",
+    "itDateBeforeStart": "2016-02-19T17:38:03.000Z",
+    "itDateBeforeEnd": "2016-07-19T16:38:03.000Z",
+    "itDateAfterStart": "2016-07-19T16:38:03.000Z",
+    "itDateAfterEnd": "2016-12-19T17:38:03.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjEyMQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/Unitech/pm2",
+      "id": "MDEwOlJlcG9zaXRvcnkxMDE4NzA4Mg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 589
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-18 12:40:42 +0200",
+    "itDateBeforeStart": "2015-12-18T11:40:42.000Z",
+    "itDateBeforeEnd": "2016-05-18T10:40:42.000Z",
+    "itDateAfterStart": "2016-05-18T10:40:42.000Z",
+    "itDateAfterEnd": "2016-10-18T10:40:42.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE1MA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/Polymer/polymer",
+      "id": "MDEwOlJlcG9zaXRvcnk1NTMyMzIw",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1075
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-17 23:07:13 +0100",
+    "itDateBeforeStart": "2015-09-17T21:07:13.000Z",
+    "itDateBeforeEnd": "2016-02-17T22:07:13.000Z",
+    "itDateAfterStart": "2016-02-17T22:07:13.000Z",
+    "itDateAfterEnd": "2016-07-17T21:07:13.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjU3Mg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/pouchdb/pouchdb",
+      "id": "MDEwOlJlcG9zaXRvcnk3MTQwNzQ=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 294
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-20 11:10:32 -0700",
+    "itDateBeforeStart": "2015-12-20T19:10:32.000Z",
+    "itDateBeforeEnd": "2016-05-20T18:10:32.000Z",
+    "itDateAfterStart": "2016-05-20T18:10:32.000Z",
+    "itDateAfterEnd": "2016-10-20T18:10:32.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQyOQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/prometheus/prometheus",
+      "id": "MDEwOlJlcG9zaXRvcnk2ODM4OTIx",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 548
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-06 11:48:14 +0200",
+    "itDateBeforeStart": "2016-01-06T10:48:14.000Z",
+    "itDateBeforeEnd": "2016-06-06T09:48:14.000Z",
+    "itDateAfterStart": "2016-06-06T09:48:14.000Z",
+    "itDateAfterEnd": "2016-11-06T10:48:14.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI1OQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/quilljs/quill",
+      "id": "MDEwOlJlcG9zaXRvcnk1MjM5MTg1",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 326
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-29 13:18:58 -0800",
+    "itDateBeforeStart": "2015-09-29T20:18:58.000Z",
+    "itDateBeforeEnd": "2016-02-29T21:18:58.000Z",
+    "itDateAfterStart": "2016-02-29T21:18:58.000Z",
+    "itDateAfterEnd": "2016-07-29T20:18:58.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI4",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/rails/rails",
+      "id": "MDEwOlJlcG9zaXRvcnk4NTE0",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 2444
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 14:04:00 -0500",
+    "itDateBeforeStart": "2015-09-18T18:04:00.000Z",
+    "itDateBeforeEnd": "2016-02-18T19:04:00.000Z",
+    "itDateAfterStart": "2016-02-18T19:04:00.000Z",
+    "itDateAfterEnd": "2016-07-18T18:04:00.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ=",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/facebook/react",
+      "id": "MDEwOlJlcG9zaXRvcnkxMDI3MDI1MA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 4704
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-11 15:30:25 -0700",
+    "itDateBeforeStart": "2015-12-11T23:30:25.000Z",
+    "itDateBeforeEnd": "2016-05-11T22:30:25.000Z",
+    "itDateAfterStart": "2016-05-11T22:30:25.000Z",
+    "itDateAfterEnd": "2016-10-11T22:30:25.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI0NA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/react-boilerplate/react-boilerplate",
+      "id": "MDEwOlJlcG9zaXRvcnkzMDk2OTE4OA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 429
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-20 08:25:22 +0200",
+    "itDateBeforeStart": "2016-02-20T07:25:22.000Z",
+    "itDateBeforeEnd": "2016-07-20T06:25:22.000Z",
+    "itDateAfterStart": "2016-07-20T06:25:22.000Z",
+    "itDateAfterEnd": "2016-12-20T07:25:22.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE1",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/facebook/react-native",
+      "id": "MDEwOlJlcG9zaXRvcnkyOTAyODc3NQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 3103
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-13 07:43:28 -0700",
+    "itDateBeforeStart": "2016-01-13T15:43:28.000Z",
+    "itDateBeforeEnd": "2016-06-13T14:43:28.000Z",
+    "itDateAfterStart": "2016-06-13T14:43:28.000Z",
+    "itDateAfterEnd": "2016-11-13T15:43:28.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjU2MA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/ptmt/react-native-macos",
+      "id": "MDEwOlJlcG9zaXRvcnk0MzY0MDgzMA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 264
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-13 07:43:28 -0700",
+    "itDateBeforeStart": "2016-01-13T15:43:28.000Z",
+    "itDateBeforeEnd": "2016-06-13T14:43:28.000Z",
+    "itDateAfterStart": "2016-06-13T14:43:28.000Z",
+    "itDateAfterEnd": "2016-11-13T15:43:28.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjg4",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/ReactTraining/react-router",
+      "id": "MDEwOlJlcG9zaXRvcnkxOTg3MjQ1Ng==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 746
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-17 15:17:24 -0500",
+    "itDateBeforeStart": "2015-09-17T19:17:24.000Z",
+    "itDateBeforeEnd": "2016-02-17T20:17:24.000Z",
+    "itDateAfterStart": "2016-02-17T20:17:24.000Z",
+    "itDateAfterEnd": "2016-07-17T19:17:24.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc3OA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/JedWatson/react-select",
+      "id": "MDEwOlJlcG9zaXRvcnkyMzMzODcxNg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 152
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-02 19:42:39 -0700",
+    "itDateBeforeStart": "2016-01-03T03:42:39.000Z",
+    "itDateBeforeEnd": "2016-06-03T02:42:39.000Z",
+    "itDateAfterStart": "2016-06-03T02:42:39.000Z",
+    "itDateAfterEnd": "2016-11-03T03:42:39.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjkwNg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/coryhouse/react-slingshot",
+      "id": "MDEwOlJlcG9zaXRvcnk0ODg2MzQxOA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 234
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-24 11:15:42 -0500",
+    "itDateBeforeStart": "2015-12-24T17:15:42.000Z",
+    "itDateBeforeEnd": "2016-05-24T16:15:42.000Z",
+    "itDateAfterStart": "2016-05-24T16:15:42.000Z",
+    "itDateAfterEnd": "2016-10-24T16:15:42.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjM3NQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/realm/realm-cocoa",
+      "id": "MDEwOlJlcG9zaXRvcnk0MDQ0ODkx",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 408
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-22 10:30:42 +0100",
+    "itDateBeforeStart": "2015-09-22T08:30:42.000Z",
+    "itDateBeforeEnd": "2016-02-22T09:30:42.000Z",
+    "itDateAfterStart": "2016-02-22T09:30:42.000Z",
+    "itDateAfterEnd": "2016-07-22T08:30:42.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjcwNA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/realm/realm-java",
+      "id": "MDEwOlJlcG9zaXRvcnk0MDg0OTA4",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 388
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-02 17:46:29 +0800",
+    "itDateBeforeStart": "2015-10-02T08:46:29.000Z",
+    "itDateBeforeEnd": "2016-03-02T09:46:29.000Z",
+    "itDateAfterStart": "2016-03-02T09:46:29.000Z",
+    "itDateAfterEnd": "2016-08-02T08:46:29.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjkwNw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/getredash/redash",
+      "id": "MDEwOlJlcG9zaXRvcnkxMzkyNjQwNA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 348
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-05 22:28:04 +0300",
+    "itDateBeforeStart": "2015-12-05T20:28:04.000Z",
+    "itDateBeforeEnd": "2016-05-05T19:28:04.000Z",
+    "itDateAfterStart": "2016-05-05T19:28:04.000Z",
+    "itDateAfterEnd": "2016-10-05T19:28:04.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjM2",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/reactjs/redux",
+      "id": "MDEwOlJlcG9zaXRvcnkzNjUzNTE1Ng==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1280
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-29 13:41:36 -0400",
+    "itDateBeforeStart": "2015-12-29T18:41:36.000Z",
+    "itDateBeforeEnd": "2016-05-29T17:41:36.000Z",
+    "itDateAfterStart": "2016-05-29T17:41:36.000Z",
+    "itDateAfterEnd": "2016-10-29T17:41:36.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjk3",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/square/retrofit",
+      "id": "MDEwOlJlcG9zaXRvcnk4OTIyNzU=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1398
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-21 14:05:18 -0500",
+    "itDateBeforeStart": "2015-09-21T18:05:18.000Z",
+    "itDateBeforeEnd": "2016-02-21T19:05:18.000Z",
+    "itDateAfterStart": "2016-02-21T19:05:18.000Z",
+    "itDateAfterEnd": "2016-07-21T18:05:18.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjMzMA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/riot/riot",
+      "id": "MDEwOlJlcG9zaXRvcnkxMzE0MjEyNg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 467
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-24 22:37:16 +0100",
+    "itDateBeforeStart": "2015-09-24T20:37:16.000Z",
+    "itDateBeforeEnd": "2016-02-24T21:37:16.000Z",
+    "itDateAfterStart": "2016-02-24T21:37:16.000Z",
+    "itDateAfterEnd": "2016-07-24T20:37:16.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjg1OQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/rkt/rkt",
+      "id": "MDEwOlJlcG9zaXRvcnkyNjUwOTM2OQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 440
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-20 17:20:52 +0200",
+    "itDateBeforeStart": "2015-11-20T16:20:52.000Z",
+    "itDateBeforeEnd": "2016-04-20T15:20:52.000Z",
+    "itDateAfterStart": "2016-04-20T15:20:52.000Z",
+    "itDateAfterEnd": "2016-09-20T15:20:52.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc3MA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/dotnet/roslyn",
+      "id": "MDEwOlJlcG9zaXRvcnkyOTA3ODk5Nw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 968
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-17 14:17:56 -0800",
+    "itDateBeforeStart": "2015-09-17T21:17:56.000Z",
+    "itDateBeforeEnd": "2016-02-17T22:17:56.000Z",
+    "itDateAfterStart": "2016-02-17T22:17:56.000Z",
+    "itDateAfterEnd": "2016-07-17T21:17:56.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc0Nw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/bbatsov/rubocop",
+      "id": "MDEwOlJlcG9zaXRvcnk0MDk1Mjg3",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 197
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-27 17:42:34 +0200",
+    "itDateBeforeStart": "2015-09-27T14:42:34.000Z",
+    "itDateBeforeEnd": "2016-02-27T15:42:34.000Z",
+    "itDateAfterStart": "2016-02-27T15:42:34.000Z",
+    "itDateAfterEnd": "2016-07-27T14:42:34.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjkwNQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/ReactiveX/rxjs",
+      "id": "MDEwOlJlcG9zaXRvcnkzMjI0Nzg0Nw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 294
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-08 21:52:04 -0800",
+    "itDateBeforeStart": "2015-10-09T04:52:04.000Z",
+    "itDateBeforeEnd": "2016-03-09T05:52:04.000Z",
+    "itDateAfterStart": "2016-03-09T05:52:04.000Z",
+    "itDateAfterEnd": "2016-08-09T04:52:04.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjYzMw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/roots/sage",
+      "id": "MDEwOlJlcG9zaXRvcnkxMzA1MTE0",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 653
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-09 10:08:24 +0930",
+    "itDateBeforeStart": "2015-12-09T01:38:24.000Z",
+    "itDateBeforeEnd": "2016-05-09T00:38:24.000Z",
+    "itDateAfterStart": "2016-05-09T00:38:24.000Z",
+    "itDateAfterEnd": "2016-10-09T00:38:24.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc0Ng==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/saltstack/salt",
+      "id": "MDEwOlJlcG9zaXRvcnkxMzkwMjQ4",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 582
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-24 16:05:00 -0700",
+    "itDateBeforeStart": "2015-09-24T22:05:00.000Z",
+    "itDateBeforeEnd": "2016-02-24T23:05:00.000Z",
+    "itDateAfterStart": "2016-02-24T23:05:00.000Z",
+    "itDateAfterEnd": "2016-07-24T22:05:00.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjEyNQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/scikit-learn/scikit-learn",
+      "id": "MDEwOlJlcG9zaXRvcnk4NDMyMjI=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1753
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-29 09:02:09 -0800",
+    "itDateBeforeStart": "2015-09-29T16:02:09.000Z",
+    "itDateBeforeEnd": "2016-02-29T17:02:09.000Z",
+    "itDateAfterStart": "2016-02-29T17:02:09.000Z",
+    "itDateAfterEnd": "2016-07-29T16:02:09.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjMwNw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/jlmakes/scrollreveal",
+      "id": "MDEwOlJlcG9zaXRvcnkxNTk3NTQzOQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 390
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-16 14:06:17 +0100",
+    "itDateBeforeStart": "2015-10-16T12:06:17.000Z",
+    "itDateBeforeEnd": "2016-03-16T13:06:17.000Z",
+    "itDateAfterStart": "2016-03-16T13:06:17.000Z",
+    "itDateAfterEnd": "2016-08-16T12:06:17.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjExMg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/select2/select2",
+      "id": "MDEwOlJlcG9zaXRvcnkzNjIwMTk0",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 824
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 17:34:43 -0500",
+    "itDateBeforeStart": "2015-09-18T21:34:43.000Z",
+    "itDateBeforeEnd": "2016-02-18T22:34:43.000Z",
+    "itDateAfterStart": "2016-02-18T22:34:43.000Z",
+    "itDateAfterEnd": "2016-07-18T21:34:43.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ2NA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/selectize/selectize.js",
+      "id": "MDEwOlJlcG9zaXRvcnk1NjA0Nzk4",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 312
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-22 17:09:08 -0400",
+    "itDateBeforeStart": "2016-01-22T22:09:08.000Z",
+    "itDateBeforeEnd": "2016-06-22T21:09:08.000Z",
+    "itDateAfterStart": "2016-06-22T21:09:08.000Z",
+    "itDateAfterEnd": "2016-11-22T22:09:08.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjg5OA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/SeleniumHQ/selenium",
+      "id": "MDEwOlJlcG9zaXRvcnk3NjEzMjU3",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 914
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-17 16:49:49 -0500",
+    "itDateBeforeStart": "2015-09-17T20:49:49.000Z",
+    "itDateBeforeEnd": "2016-02-17T21:49:49.000Z",
+    "itDateAfterStart": "2016-02-17T21:49:49.000Z",
+    "itDateAfterEnd": "2016-07-17T20:49:49.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQyOA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/sequelize/sequelize",
+      "id": "MDEwOlJlcG9zaXRvcnk3OTAzNTk=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 328
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-30 18:29:25 +0200",
+    "itDateBeforeStart": "2015-10-30T17:29:25.000Z",
+    "itDateBeforeEnd": "2016-03-30T16:29:25.000Z",
+    "itDateAfterStart": "2016-03-30T16:29:25.000Z",
+    "itDateAfterEnd": "2016-08-30T16:29:25.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE1OA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/serverless/serverless",
+      "id": "MDEwOlJlcG9zaXRvcnkzNDMwMjY5OA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 727
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-12 12:52:45 +0700",
+    "itDateBeforeStart": "2015-11-12T06:52:45.000Z",
+    "itDateBeforeEnd": "2016-04-12T05:52:45.000Z",
+    "itDateAfterStart": "2016-04-12T05:52:45.000Z",
+    "itDateAfterEnd": "2016-09-12T05:52:45.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc3Nw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/mperham/sidekiq",
+      "id": "MDEwOlJlcG9zaXRvcnkzMTk1MTI0",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 232
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-29 09:08:27 -0700",
+    "itDateBeforeStart": "2016-01-29T17:08:27.000Z",
+    "itDateBeforeEnd": "2016-06-29T16:08:27.000Z",
+    "itDateAfterStart": "2016-06-29T16:08:27.000Z",
+    "itDateAfterEnd": "2016-11-29T17:08:27.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjIzMQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/lord/slate",
+      "id": "MDEwOlJlcG9zaXRvcnkxMjgyMDUzNw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 348
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-10 22:05:39 -0500",
+    "itDateBeforeStart": "2016-01-11T04:05:39.000Z",
+    "itDateBeforeEnd": "2016-06-11T03:05:39.000Z",
+    "itDateAfterStart": "2016-06-11T03:05:39.000Z",
+    "itDateAfterEnd": "2016-11-11T04:05:39.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjEzOA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/kenwheeler/slick",
+      "id": "MDEwOlJlcG9zaXRvcnkxODA0OTEzMw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 566
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-21 00:08:30 +0800",
+    "itDateBeforeStart": "2015-09-20T15:08:30.000Z",
+    "itDateBeforeEnd": "2016-02-20T16:08:30.000Z",
+    "itDateAfterStart": "2016-02-20T16:08:30.000Z",
+    "itDateAfterEnd": "2016-07-20T15:08:30.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI2Nw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/spring-projects/spring-boot",
+      "id": "MDEwOlJlcG9zaXRvcnk2Mjk2Nzkw",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1677
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-28 17:04:52 -0700",
+    "itDateBeforeStart": "2015-10-29T01:04:52.000Z",
+    "itDateBeforeEnd": "2016-03-29T00:04:52.000Z",
+    "itDateAfterStart": "2016-03-29T00:04:52.000Z",
+    "itDateAfterEnd": "2016-08-29T00:04:52.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjE4Nw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/syncthing/syncthing",
+      "id": "MDEwOlJlcG9zaXRvcnkxNDcxMjg1MA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 753
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-21 11:57:17 +0700",
+    "itDateBeforeStart": "2015-09-21T03:57:17.000Z",
+    "itDateBeforeEnd": "2016-02-21T04:57:17.000Z",
+    "itDateAfterStart": "2016-02-21T04:57:17.000Z",
+    "itDateAfterEnd": "2016-07-21T03:57:17.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc=",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/tensorflow/tensorflow",
+      "id": "MDEwOlJlcG9zaXRvcnk0NTcxNzI1MA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 5546
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-17 17:50:38 -0800",
+    "itDateBeforeStart": "2015-09-18T00:50:38.000Z",
+    "itDateBeforeEnd": "2016-02-18T01:50:38.000Z",
+    "itDateAfterStart": "2016-02-18T01:50:38.000Z",
+    "itDateAfterEnd": "2016-07-18T00:50:38.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjYwNQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/hashicorp/terraform",
+      "id": "MDEwOlJlcG9zaXRvcnkxNzcyODE2NA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 612
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-11 10:33:06 -0500",
+    "itDateBeforeStart": "2015-11-11T16:33:06.000Z",
+    "itDateBeforeEnd": "2016-04-11T15:33:06.000Z",
+    "itDateAfterStart": "2016-04-11T15:33:06.000Z",
+    "itDateAfterEnd": "2016-09-11T15:33:06.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjMz",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/mrdoob/three.js",
+      "id": "MDEwOlJlcG9zaXRvcnk1NzYyMDE=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 2051
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-07 18:51:12 +0100",
+    "itDateBeforeStart": "2015-10-07T16:51:12.000Z",
+    "itDateBeforeEnd": "2016-03-07T17:51:12.000Z",
+    "itDateAfterStart": "2016-03-07T17:51:12.000Z",
+    "itDateAfterEnd": "2016-08-07T16:51:12.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc2Mw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/basecamp/trix",
+      "id": "MDEwOlJlcG9zaXRvcnkxMTgyOTE0NQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 190
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-30 15:44:56 -0400",
+    "itDateBeforeStart": "2015-11-30T20:44:56.000Z",
+    "itDateBeforeEnd": "2016-04-30T19:44:56.000Z",
+    "itDateAfterStart": "2016-04-30T19:44:56.000Z",
+    "itDateAfterEnd": "2016-09-30T19:44:56.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjU2Mw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/gorhill/uBlock",
+      "id": "MDEwOlJlcG9zaXRvcnkzMzI2MzExOA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 538
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 14:27:01 -0500",
+    "itDateBeforeStart": "2015-09-18T18:27:01.000Z",
+    "itDateBeforeEnd": "2016-02-18T19:27:01.000Z",
+    "itDateAfterStart": "2016-02-18T19:27:01.000Z",
+    "itDateAfterEnd": "2016-07-18T18:27:01.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjIyNg==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/mitchellh/vagrant",
+      "id": "MDEwOlJlcG9zaXRvcnk0ODE4NzI=",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 766
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-17 15:18:58 -0500",
+    "itDateBeforeStart": "2015-09-17T19:18:58.000Z",
+    "itDateBeforeEnd": "2016-02-17T20:18:58.000Z",
+    "itDateAfterStart": "2016-02-17T20:18:58.000Z",
+    "itDateAfterEnd": "2016-07-17T19:18:58.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ0MA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/vapor/vapor",
+      "id": "MDEwOlJlcG9zaXRvcnk0OTkxMDA5NQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 411
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-05-08 18:03:42 -0400",
+    "itDateBeforeStart": "2015-12-08T23:03:42.000Z",
+    "itDateBeforeEnd": "2016-05-08T22:03:42.000Z",
+    "itDateAfterStart": "2016-05-08T22:03:42.000Z",
+    "itDateAfterEnd": "2016-10-08T22:03:42.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjUzMw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/vim-airline/vim-airline",
+      "id": "MDEwOlJlcG9zaXRvcnkxMTA3NTUyNw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 215
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-01 12:42:46 -0500",
+    "itDateBeforeStart": "2015-10-01T16:42:46.000Z",
+    "itDateBeforeEnd": "2016-03-01T17:42:46.000Z",
+    "itDateAfterStart": "2016-03-01T17:42:46.000Z",
+    "itDateAfterEnd": "2016-08-01T16:42:46.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjkyNQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/fatih/vim-go",
+      "id": "MDEwOlJlcG9zaXRvcnkxODA2Mjk0NA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 239
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-24 23:03:52 +0200",
+    "itDateBeforeStart": "2015-09-24T20:03:52.000Z",
+    "itDateBeforeEnd": "2016-02-24T21:03:52.000Z",
+    "itDateAfterStart": "2016-02-24T21:03:52.000Z",
+    "itDateAfterEnd": "2016-07-24T20:03:52.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc0MQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/junegunn/vim-plug",
+      "id": "MDEwOlJlcG9zaXRvcnkxMjczMjU3Mw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 226
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-24 19:11:18 -0500",
+    "itDateBeforeStart": "2015-09-24T23:11:18.000Z",
+    "itDateBeforeEnd": "2016-02-25T00:11:18.000Z",
+    "itDateAfterStart": "2016-02-25T00:11:18.000Z",
+    "itDateAfterEnd": "2016-07-24T23:11:18.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjYxMQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/maxwellito/vivus",
+      "id": "MDEwOlJlcG9zaXRvcnkxOTc1NzkxNw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 254
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-07-13 00:56:45 +0100",
+    "itDateBeforeStart": "2016-02-13T00:56:45.000Z",
+    "itDateBeforeEnd": "2016-07-12T23:56:45.000Z",
+    "itDateAfterStart": "2016-07-12T23:56:45.000Z",
+    "itDateAfterEnd": "2016-12-13T00:56:45.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ2",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/Microsoft/vscode",
+      "id": "MDEwOlJlcG9zaXRvcnk0MTg4MTkwMA==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1636
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-11 11:29:54 +0100",
+    "itDateBeforeStart": "2015-10-11T09:29:54.000Z",
+    "itDateBeforeEnd": "2016-03-11T10:29:54.000Z",
+    "itDateAfterStart": "2016-03-11T10:29:54.000Z",
+    "itDateAfterEnd": "2016-08-11T09:29:54.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjk=",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/vuejs/vue",
+      "id": "MDEwOlJlcG9zaXRvcnkxMTczMDM0Mg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 3382
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-08-18 15:48:57 -0400",
+    "itDateBeforeStart": "2016-03-18T20:48:57.000Z",
+    "itDateBeforeEnd": "2016-08-18T19:48:57.000Z",
+    "itDateAfterStart": "2016-08-18T19:48:57.000Z",
+    "itDateAfterEnd": "2017-01-18T20:48:57.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjY1MA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/airyland/vux",
+      "id": "MDEwOlJlcG9zaXRvcnk1MTcyODE0MQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 507
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-28 14:10:39 +0800",
+    "itDateBeforeStart": "2015-10-28T07:10:39.000Z",
+    "itDateBeforeEnd": "2016-03-28T06:10:39.000Z",
+    "itDateAfterStart": "2016-03-28T06:10:39.000Z",
+    "itDateAfterEnd": "2016-08-28T06:10:39.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQ3",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/webpack/webpack",
+      "id": "MDEwOlJlcG9zaXRvcnkzNjc4NzMx",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1158
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-06-08 10:56:28 -0500",
+    "itDateBeforeStart": "2016-01-08T16:56:28.000Z",
+    "itDateBeforeEnd": "2016-06-08T15:56:28.000Z",
+    "itDateAfterStart": "2016-06-08T15:56:28.000Z",
+    "itDateAfterEnd": "2016-11-08T16:56:28.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjU0NQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/FormidableLabs/webpack-dashboard",
+      "id": "MDEwOlJlcG9zaXRvcnk2NTY3ODc4OQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 143
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-08-19 09:03:45 -0400",
+    "itDateBeforeStart": "2016-03-19T14:03:45.000Z",
+    "itDateBeforeEnd": "2016-08-19T13:03:45.000Z",
+    "itDateAfterStart": "2016-08-19T13:03:45.000Z",
+    "itDateAfterEnd": "2017-01-19T14:03:45.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI2NQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/webtorrent/webtorrent",
+      "id": "MDEwOlJlcG9zaXRvcnkxMzU4NDI2Mg==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 630
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-27 17:04:29 -0800",
+    "itDateBeforeStart": "2015-09-28T00:04:29.000Z",
+    "itDateBeforeEnd": "2016-02-28T01:04:29.000Z",
+    "itDateAfterStart": "2016-02-28T01:04:29.000Z",
+    "itDateAfterEnd": "2016-07-28T00:04:29.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjU5MQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/Automattic/wp-calypso",
+      "id": "MDEwOlJlcG9zaXRvcnk0NTkzNjg5NQ==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 509
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-04-01 13:51:35 -0700",
+    "itDateBeforeStart": "2015-11-01T21:51:35.000Z",
+    "itDateBeforeEnd": "2016-04-01T20:51:35.000Z",
+    "itDateAfterStart": "2016-04-01T20:51:35.000Z",
+    "itDateAfterEnd": "2016-09-01T20:51:35.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjc1Nw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/dmlc/xgboost",
+      "id": "MDEwOlJlcG9zaXRvcnkxNjU4NzI4Mw==",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 649
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-08-17 22:50:37 -0700",
+    "itDateBeforeStart": "2016-03-18T06:50:37.000Z",
+    "itDateBeforeEnd": "2016-08-18T05:50:37.000Z",
+    "itDateAfterStart": "2016-08-18T05:50:37.000Z",
+    "itDateAfterEnd": "2017-01-18T06:50:37.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjQxNA==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/yiisoft/yii2",
+      "id": "MDEwOlJlcG9zaXRvcnkzNDMxMTkz",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1273
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-16 14:51:30 +0300",
+    "itDateBeforeStart": "2015-10-16T10:51:30.000Z",
+    "itDateBeforeEnd": "2016-03-16T11:51:30.000Z",
+    "itDateAfterStart": "2016-03-16T11:51:30.000Z",
+    "itDateAfterEnd": "2016-08-16T10:51:30.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI3Mw==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/soimort/you-get",
+      "id": "MDEwOlJlcG9zaXRvcnk1NDgzMzMw",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 740
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-02-18 04:23:43 +0100",
+    "itDateBeforeStart": "2015-09-18T02:23:43.000Z",
+    "itDateBeforeEnd": "2016-02-18T03:23:43.000Z",
+    "itDateAfterStart": "2016-02-18T03:23:43.000Z",
+    "itDateAfterEnd": "2016-07-18T02:23:43.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjYw",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/rg3/youtube-dl",
+      "id": "MDEwOlJlcG9zaXRvcnkxMDM5NTIw",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1130
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-28 22:43:13 +0600",
+    "itDateBeforeStart": "2015-10-28T17:43:13.000Z",
+    "itDateBeforeEnd": "2016-03-28T16:43:13.000Z",
+    "itDateAfterStart": "2016-03-28T16:43:13.000Z",
+    "itDateAfterEnd": "2016-08-28T16:43:13.000Z"
+  },
+  {
+    "cursor": "Y3Vyc29yOjI0OQ==",
+    "node": {
+      "isPrivate": false,
+      "url": "https://github.com/zxing/zxing",
+      "id": "MDEwOlJlcG9zaXRvcnkyNTYyNzUx",
+      "hasIssuesEnabled": true,
+      "watchers": {
+        "totalCount": 1398
+      },
+      "hasIssueTemplate": true
+    },
+    "itDate": "2016-03-02 12:45:45 +0000",
+    "itDateBeforeStart": "2015-10-02T11:45:45.000Z",
+    "itDateBeforeEnd": "2016-03-02T12:45:45.000Z",
+    "itDateAfterStart": "2016-03-02T12:45:45.000Z",
+    "itDateAfterEnd": "2016-08-02T11:45:45.000Z"
+  }
+]
